@@ -1,0 +1,6 @@
+@MosEisly_sCantina_HostAddress = http://localhost:5251
+
+GET {{MosEisly_sCantina_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
